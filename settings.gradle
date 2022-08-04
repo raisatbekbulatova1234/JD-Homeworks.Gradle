@@ -1,0 +1,5 @@
+rootProject.name = 'JD-Homeworks.Gradle'
+include 'db'
+include 'service'
+include 'api'
+
